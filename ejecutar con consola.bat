@@ -1,3 +1,3 @@
 @echo off
-java -jar APP1.jar
+java -jar BlibliotecaDB.jar
 pause
