@@ -1,0 +1,2 @@
+Código de acceso administrador: "ADMINCDB"
+Código de acceso Profesores: "PROFCDB"
